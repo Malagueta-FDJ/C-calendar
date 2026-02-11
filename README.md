@@ -1,2 +1,2 @@
 # C-calendar
-A simple C calendar for oranizing simple activities.
+Um calendário simples para organizar atividades.
